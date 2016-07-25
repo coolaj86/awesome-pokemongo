@@ -149,6 +149,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 ##### Mappers
 
+* [node-pokemap](https://github.com/Daplie/node-pokemap) - Easy-to-install node.js web app for live visualization of pokemon - a fork of PokemonGo-Map using only one programming language (JavaScript / ES5.1) and no extra build steps.
 * [pkmngo-map](https://github.com/TheZ3ro/pkmngo-map) - PokemonGO mapping tool in python.
 * [PokeLocator](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
 * [Pokemon Go Map For Telegram](https://github.com/robbcocco/PokemonGo-Map-forTelegram) - Live visualization of Pokemon in an area using Telegram bot.
